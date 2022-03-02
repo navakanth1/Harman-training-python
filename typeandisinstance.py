@@ -1,3 +1,2 @@
 a="navakanth"
-result=isinstance(a, str)
-print(result)
+print(result[1,2,3])
